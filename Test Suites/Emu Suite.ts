@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>20f03ae0-115c-442d-87f8-6d0b57975b0d</testSuiteGuid>
    <testCaseLink>
-      <guid>2a8b457b-43ee-4953-8b93-bbbe94a6f15c</guid>
+      <guid>bec80679-9ecb-4635-963d-30ad027d230f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Emu Test Case</testCaseId>
